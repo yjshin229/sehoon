@@ -16,4 +16,5 @@ const Container = styled.div`
   display: flex;
   flex-direction: column;
   font-family: "Crimson Text", serif;
+  height: 100rem;
 `

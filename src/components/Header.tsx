@@ -34,6 +34,10 @@ export default Header
 
 const HeaderWrapper = styled.div`
     background-color: #00b925;
+    position: fixed;
+    top:0;
+    right:0;
+    left: 0;
     display: flex;
     padding-inline: 2rem;
     justify-content: space-between;
